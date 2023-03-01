@@ -1,0 +1,19 @@
+{
+  "flavors": {
+    "github": {
+      "stable": {
+        "isUpdate": false,
+        "store": "https://play.google.com/store/apps/details?id=free.tube.premium.advanced.magictuber.pro",
+        "apk": "https://play.google.com/store/apps/details?id=free.tube.premium.advanced.magictuber.pro",
+        "isShowAds": false,
+        "isShowAdsAdmobOpen": false,
+        "timeShowAds": 1,
+        "isShowAdsAdmobBN": false,
+        "isRemoveAds": false,
+        "version": "1.0",
+        "version_code": 1,
+        "version_code_4_4": 1
+      }
+    }
+  }
+}
