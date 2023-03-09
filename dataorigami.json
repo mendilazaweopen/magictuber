@@ -1,0 +1,20 @@
+{
+  "flavors": {
+    "github": {
+      "stable": {
+        "isUpdate": false,
+        "store": "https://play.google.com/store/apps/details?id=free.tube.premium.advanced.magictuber.pro",
+        "apk": "https://play.google.com/store/apps/details?id=free.tube.premium.advanced.magictuber.pro",
+        "savedTabs": "{\"tabs\":[{\"tab_id\":6,\"channel_service_id\":0,\"channel_url\":\"https://www.youtube.com/channel/UC3ICcukYYeSn26KlCRnhOhA\",\"channel_name\":\"OrigamiwithJoNakashima\"},{\"tab_id\":6,\"channel_service_id\":0,\"channel_url\":\"https://www.youtube.com/channel/UC9L_ZcFAtqA3o3cwo56ejMA\",\"channel_name\":\"OrigamiStudio\"},{\"tab_id\":6,\"channel_service_id\":0,\"channel_url\":\"https://www.youtube.com/channel/UCk7fXB7wMLCrWw5uujuh5xg\",\"channel_name\":\"OrigamiArt&Crafts\"},{\"tab_id\":6,\"channel_service_id\":0,\"channel_url\":\"https://www.youtube.com/channel/UCZALpPdZy4UpABE3IJFoYLw\",\"channel_name\":\"NghệThuậtORIGAMI\"},{\"tab_id\":3},{\"tab_id\":1}]}"
+        "isShowAds": false,
+        "isShowAdsAdmobOpen": false,
+        "timeShowAds": 1,
+        "isShowAdsAdmobBN": false,
+        "isRemoveAds": false,
+        "version": "1.0",
+        "version_code": 1,
+        "version_code_4_4": 1
+      }
+    }
+  }
+}
